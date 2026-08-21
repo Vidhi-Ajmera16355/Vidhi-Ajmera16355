@@ -114,73 +114,56 @@ A full-stack job portal designed to connect job seekers and recruiters with feat
 A real-time chat application built using the **MERN stack**, supporting user authentication and real-time communication.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vidhi-Ajmera16355&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhi-Ajmera16355&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhi-Ajmera16355&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Vidhi-Ajmera16355&theme=onedark&margin-w=15&margin-h=15&no-frame=true"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/Vidhi-Ajmera16355">
+    <img src="https://img.shields.io/github/followers/Vidhi-Ajmera16355?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Vidhi-Ajmera16355?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Vidhi-Ajmera16355?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Vidhi-Ajmera16355">
+    <img src="https://img.shields.io/github/last-commit/Vidhi-Ajmera16355/Vidhi-Ajmera16355?style=for-the-badge" alt="Last Commit" />
+  </a>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vidhi-ajmera-501328257/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://leetcode.com/u/vidhi_ajmera/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"
-      alt="LeetCode"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
   <a href="mailto:vidhi2005ajmera@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://portfolio-1-owf7.onrender.com/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+---
+
+## 🚀 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/KubeVela-5B5BD6?logo=kubernetes&logoColor=white" alt="KubeVela" />
+  <img src="https://img.shields.io/badge/GenAI-412991?logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/System%20Design-333333?logo=diagramsdotnet&logoColor=white" alt="System Design" />
 </p>
 
 ---
